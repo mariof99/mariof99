@@ -1,7 +1,10 @@
-## Hola hola! 👋 Me llamo Mario :smiley:.
+## Hola hola! 👋 My name is Mario :smiley:.
 
-### Algo sobre mí:
+### About me:
 
-- :computer:: Estudiante de Desarrollo de Aplicaciones Web.
-- :book:: Estoy aprendiento francés, programación y a organizarme :no_mouth:.
-- :walking:: Me apasiona la música y el bjj.
+- :computer:: I'm a Java developer.
+- :book:: I'm learning french, programming (always) and to manage my time effitiently:no_mouth:.
+- :walking:: I love music and reading, but I have time for exerciste, too.
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
