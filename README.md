@@ -49,7 +49,7 @@
 <img sytles="width: 100%" src="https://github.com/mariof99/mariof99/blob/output/github-contribution-grid-snake.svg">
 <br />
 <br />
-<img height=185 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariof99&theme=tokyonight&layout=donut"/>
+<img height=195 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariof99&theme=tokyonight&layout=donut"/>
 </a>
-<img height=185 align="right" src="https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight"/>
+<img height=195 align="right" src="https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight"/>
 </a>
