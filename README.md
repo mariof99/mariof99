@@ -51,5 +51,5 @@
 <br />
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariof99&theme=tokyonight&layout=donut"/>
 </a>
-<img height=200 align="rihgt" src="https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight"/>
+<img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight"/>
 </a>
