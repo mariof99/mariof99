@@ -1,10 +1,12 @@
 ## Hola hola! 👋 My name is Mario :smiley:.
 
+<img width="330px" align="right" src="https://github.com/mariof99/mariof99/assets/92574335/749247d3-a739-4738-ab9f-070a9227ff6f">
+
 ### About me:
 
-- :computer:: I'm a Java developer.
-- :book:: I'm learning french, programming (always) and to effitiently manage my time :no_mouth:.
-- :walking:: I love music and reading, but I have time for exercise, too.
+- :computer: I'm a Java developer.
+- :book: I'm learning french, programming (always) and to effitiently manage my time :no_mouth:.
+- :walking: I love music and reading, but I have time for exercise, too.
 
 ### Languages and db:
 
@@ -12,6 +14,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -32,19 +35,12 @@
 
 ### OS:
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  <br />
  <br />
  <br />
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariof99&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight)
 
- <br />
- <br />
- <br />
- 
 ![Snake animation](https://github.com/mariof99/mariof99/blob/output/github-contribution-grid-snake.svg)
-
-
-
