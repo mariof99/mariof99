@@ -2,13 +2,19 @@
 
 <img width="330px" align="right" src="https://github.com/mariof99/mariof99/assets/92574335/749247d3-a739-4738-ab9f-070a9227ff6f">
 
-### About me:
+### About me
 
 - :computer: I'm a Java developer.
-- :book: I'm learning french, programming (always) and to effitiently manage my time :no_mouth:.
+- :book: I'm learning French, programming (always) and to effitiently manage my time :no_mouth:.
 - :walking: I love music and reading, but I have time for exercise, too.
 
-### Languages and db:
+
+### Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marioferestevez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-fern%C3%A1ndez-est%C3%A9vez-02254b26a)
+
+### Languages and db
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,26 +27,29 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### Frameworks:
+### Frameworks
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Git:
+### Git
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### OS:
+### OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- <br />
- <br />
- <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariof99&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight)
-
-![Snake animation](https://github.com/mariof99/mariof99/blob/output/github-contribution-grid-snake.svg)
+<br />
+<br />
+<br />
+<img sytles="width: 100%" src="https://github.com/mariof99/mariof99/blob/output/github-contribution-grid-snake.svg">
+<br />
+<br />
+<img height=235 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariof99&theme=tokyonight&layout=donut"/>
+</a>
+<img height=235 align="left" src="https://github-readme-stats.vercel.app/api?username=mariof99&show_icons=true&theme=tokyonight"/>
+</a>
