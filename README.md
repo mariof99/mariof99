@@ -3,7 +3,7 @@
 ### About me
 
 - :computer: I'm a Java developer.
-- :book: I'm learning French, programming (always) and to effitiently manage my time :no_mouth:.
+- :book: I'm learning French, programming (always) and to efficiently manage my time :no_mouth:.
 - :walking: I love music and reading, but I have time for exercise, too.
 
 <img width="330px" align="right" src="https://github.com/mariof99/mariof99/assets/92574335/749247d3-a739-4738-ab9f-070a9227ff6f">
